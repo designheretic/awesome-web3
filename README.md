@@ -407,7 +407,6 @@
 - [Tenderly](https://tenderly.co)
 - [Apillon](https://apillon.io/)
 - [rivet.cloud](https://rivet.cloud/)
-- [rivet.link](https://rivet.link/)
 
 ## Other
 
